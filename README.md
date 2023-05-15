@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-<em><i>You merely adopted the dark, I was born in it.</i></em><br>https://tryhackme.com/p/m1c4rbine<br>https://www.linkedin.com/in/berkay-sunay-5599a7219/
+<em><i>You merely adopted the dark, I was born in it.</i></em><br>
 
 
 ## 🌐 Socials:
